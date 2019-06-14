@@ -1,0 +1,41 @@
+Hello!
+I'd like to introduce my approach to Diet Problem. Code is written in Julia.
+
+
+First of all, you need to upload certain packages.
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\u001b[32m\u001b[1m Resolving\u001b[22m\u001b[39m package versions...\n",
+      "\u001b[32m\u001b[1m  Updating\u001b[22m\u001b[39m `~/.julia/Project.toml`\n",
+      "\u001b[90m [no changes]\u001b[39m\n",
+      "\u001b[32m\u001b[1m  Updating\u001b[22m\u001b[39m `~/.julia/Manifest.toml`\n",
+      "\u001b[90m [no changes]\u001b[39m\n"
+     ]
+    }
+   ],
+   "source": [
+    "using JuMP\n",
+    "using GLPKMathProgInterface\n",
+    "\n",
+    "Pkg.add(\"DataDeps\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n"
+   ]
+}
