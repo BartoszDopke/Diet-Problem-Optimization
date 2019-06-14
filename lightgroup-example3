@@ -1,0 +1,19 @@
+Example 3
+
+That's the output of solver showing diet for 20 people (average weight is 62 kg) including minimal weight of food. That's a good option for people who travel a lot.
+
+status = solve(m) = :Optimal
+  106 grams 	Salt substitute, potassium chloride
+  204 grams 	Fibre
+ 3407 grams 	Biscuit, savoury, rice cracker, from brown rice, all flavours
+ 1957 grams 	Breakfast cereal, mixed grain (rice & wheat), flakes, added vitamins B1, B2, B3, B6 & folate, Ca, Fe & Zn
+  224 grams 	Oil, copha
+  209 grams 	Oil, safflower
+   11 grams 	Nut, brazil, with or without skin, raw, unsalted
+  501 grams 	Protein powder, protein 45%, reduced sugars, fortified
+   48 grams 	Protein powder, protein 20%, fortified, caffeinated
+ 1045 grams 	Potato crisps or chips, plain, unsalted
+  737 grams 	Intense sweetener, containing aspartame/acesulfame-potassium, tablet
+ 1151 grams 	Sugar, white, with added stevia, granulated
+   56 grams 	Seaweed, nori, dried
+Total: 483 grams
