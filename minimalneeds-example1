@@ -1,0 +1,26 @@
+Example 1
+
+That's output of solver showing diet with minimal needs for 62 kg man
+
+status = solve(m) = :Optimal
+  500 grams 	Salt substitute, potassium chloride
+    1 grams 	Salt, flavoured
+  500 grams 	Cream of tartar, dry powder
+    2 grams 	Caffeine
+   13 grams 	Calcium
+    8 grams 	Fibre
+  500 grams 	Folic acid
+    9 grams 	Iodine
+  500 grams 	Thiamin
+   19 grams 	Vitamin C
+   12 grams 	Vitamin E
+  124 grams 	Coffee, macchiato, from ground coffee beans, with skim cows milk
+  144 grams 	Tea, regular, white, brewed from leaf or teabags, with cows milk not further defined
+   19 grams 	Oil, safflower
+    3 grams 	Shortening, commercial, vegetable fat (for coatings, creams, icings, confectionery & fillings)
+  291 grams 	Octopus, cooked, with or without added fat
+    2 grams 	Oyster, cooked, with or without added fat
+  152 grams 	Bar, nougat & caramel centre, milk chocolate-coated
+  217 grams 	Lolly, non-mint flavours, intense sweetened
+  167 grams 	Bok choy or choy sum, baked, roasted, fried, stir-fried, grilled or BBQ'd, no added fat
+  229 grams 	Mixed vegetables, Asian greens, stir-fried or fried, fat not further defined
