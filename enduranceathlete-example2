@@ -1,0 +1,27 @@
+Example 2
+
+That's output of solver showing diet with nutrient needs for 70 kg endurance athlete including maximizing protein intake
+
+status = solve(m) = :Optimal
+   10 grams 	Folic acid
+  300 grams 	Coffee, from ground coffee beans, with regular fat coffee whitener
+  300 grams 	Coffee, cappuccino, from ground coffee beans, with skim cows milk
+  300 grams 	Coffee, macchiato, from ground coffee beans, decaffeinated, with regular fat cows milk
+   49 grams 	Coffee, long black style, from ground coffee beans, double shot, without milk
+  300 grams 	Tea, regular, white, brewed from leaf or teabags, with cows milk not further defined
+  224 grams 	Water, bottled, with added sugar, vitamins & minerals
+   26 grams 	Milk, almond, fluid
+  300 grams 	Milk, cow, fluid, prepared from dry powder, regular fat, standard dilution
+  300 grams 	Milk & water, reduced fat cow's milk & tap water
+  300 grams 	Milk & water, skim cow's milk & tap water
+   20 grams 	Oil, safflower
+  300 grams 	Beef, rump steak, fully-trimmed, raw
+   28 grams 	Veal, stir-fry strips, untrimmed, raw
+  300 grams 	Pork, silverside steak, untrimmed, raw
+  300 grams 	Kangaroo, rump, raw
+   12 grams 	Coconut, milk, canned, not further defined
+   61 grams 	Octopus, cooked, with or without added fat
+  291 grams 	Lolly, non-mint flavours, intense sweetened
+  300 grams 	Bok choy or choy sum, baked, roasted, fried, stir-fried, grilled or BBQ'd, no added fat
+  158 grams 	Mixed vegetables, Asian greens, stir-fried or fried, no added fat
+  300 grams 	Mixed vegetables, Asian greens, boiled, microwaved or steamed, drained
